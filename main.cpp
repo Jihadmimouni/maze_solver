@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{   //edit both 10s to change the size of the maze
+{   // edit both 10s to change the size of the maze
 	int t[10][10][4];
     int direction=0,a,b,c,x=1,y=1,q,end=0;
     for (int w=0; w<=9; w++)
